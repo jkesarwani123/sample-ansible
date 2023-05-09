@@ -1,2 +1,2 @@
 # sample-ansible
-ansible
+# 1. write sample ansible
