@@ -2,10 +2,3 @@
   hosts: all
   roles:
     - sample
-
-- name: Demo on variables in Roles
-  hosts: all
-  vars:
-    URL_PLAY: "NEW URL JKDEVOPS.ONLINE"
-  roles:
-    - sample
