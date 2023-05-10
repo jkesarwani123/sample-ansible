@@ -1,4 +1,6 @@
 - name: Demo on Roles
   hosts: all
+  vars:
+    URL_PLAY: "JK DEVOPS"
   roles:
     - sample

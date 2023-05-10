@@ -4,5 +4,5 @@
 
 - name: Print hello world
   ansible.builtin.debug:
-    msg: Sample URL {{ URL }}
+    msg: Sample URL {{ URL }} {{ URL_PLAY}}
 
